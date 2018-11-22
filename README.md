@@ -1,1 +1,1 @@
-# A Series of Learnings Notebooks
+# A Series of Notebooks for Learning Python
